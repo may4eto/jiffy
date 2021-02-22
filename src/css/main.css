@@ -90,6 +90,7 @@ button {
 }
 
 .video {
+  z-index: 2;
   background-color: #000;
   display: block;
   width: 100%;
